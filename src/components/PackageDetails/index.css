@@ -1,0 +1,24 @@
+.package-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-start;
+  flex-wrap: wrap;
+  font-family: 'Roboto';
+}
+
+.logo {
+  width: 300px;
+  height: 150px;
+}
+
+.name {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.des {
+  color: #64748b;
+  font-size: 16px;
+}
